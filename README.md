@@ -1,3 +1,13 @@
+# GitHub User
+
+Projeto criado para consumo da API pública do GitHub e apresentação de informações de usuários, utilizando componentes React
+
+#### Bibliotecas Usadas:
+
+-   Axios
+-   React Tabs
+-   Styled-Componentss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
